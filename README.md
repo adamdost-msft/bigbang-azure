@@ -1,3 +1,8 @@
+# NOTE
+
+I am transforming this to work in Azure. This README should be read at the source if you're trying to implement BigBang today over on the PlatformOne Repo in GitLab. This is all dev/experimental with a bit of craziness in between :)
+
+
 # BigBang Template
 
 #### _This is a mirror of a government repo hosted on [Repo1](https://repo1.dso.mil/) by [DoD Platform One](http://p1.dso.mil/).  Please direct all code changes, issues and comments to https://repo1.dso.mil/platform-one/big-bang/customers/template_**

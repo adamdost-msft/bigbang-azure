@@ -1,0 +1,1 @@
+Mapping the AWS Created resources to work in Azure
